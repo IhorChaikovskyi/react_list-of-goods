@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,OACE,YAAa,CACd,YAGC,wBAAyB,CACzB,aAAc,CACf,YAGC,wBAAyB,CACzB,aAAc","file":"main.e3f381e3.chunk.css","sourcesContent":["iframe {\n  display: none;\n}\n\n.is-success {\n  background-color: #effaf5;\n  color: #257953;\n}\n\n.is-warning {\n  background-color: #fffaeb;\n  color: #946c00;\n}\n"]}
